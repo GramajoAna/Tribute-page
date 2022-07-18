@@ -1,0 +1,73 @@
+body {
+    font-family: Tahoma;
+    background-color: white;
+    font-size: 17px;
+}
+
+header {
+    text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+    text-align: center;
+}
+
+.canvas {
+    background-color: beige;
+    border-radius: 8px 10px;
+    padding: 10px 20px;
+    margin: 20px 10px;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    margin: auto;
+}
+
+#img-div {
+    background-color: white;
+    border-radius: 8px 10px;
+    height: none;
+    padding: 10px 20px;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#tribute-info {
+    width: 60%;
+    background-color:beige;
+    border-radius: 8px 10px;
+    height: none;
+    margin: auto;
+}
+
+#tribute-info>p {
+    padding-left: 25px;
+}
+
+#tribute-link {
+    text-align: center;
+}
+
+section {
+    text-align: center;
+}
+li {
+    padding: 5px 0;
+}
+
+.bold {
+    font-weight: 800;
+}
+
+.italic {
+    font-style: italic;
+}
+
+a {
+    color: steelblue;
+}
