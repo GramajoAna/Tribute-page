@@ -1,5 +1,5 @@
 # Tribute-page
-Project-2
+Project-2:
 Build a Tribute page from Responsive Web Design Certification (freeCodeCamp)
 
 Webpage
